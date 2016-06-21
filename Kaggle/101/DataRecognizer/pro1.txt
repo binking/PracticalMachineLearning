@@ -1,0 +1,4 @@
+Loading Train Data finshed
+Loading Test Data finshed
+The size of test set is  28000
+Loading test set caosts :  137.88631653785706

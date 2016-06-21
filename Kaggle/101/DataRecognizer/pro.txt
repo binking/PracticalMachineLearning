@@ -1,0 +1,3016 @@
+Loading Train Data finshed
+4.26535177230835
+Loading Test Data finshed
+The size of test set is  28000
+Loading test set caosts :  100.35974931716919
+**************Let's get started recognize number**************
+**************      Training trainset with nnClassifier     **************
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  2.0 	Predict Label:  2.0
+Real Label:  8.0 	Predict Label:  8.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  5.0 	Predict Label:  5.0
+Real Label:  3.0 	Predict Label:  3.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  9.0 	Predict Label:  9.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  4.0 	Predict Label:  4.0
+Real Label:  0.0 	Predict Label:  0.0
+Real Label:  1.0 	Predict Label:  1.0
+Real Label:  7.0 	Predict Label:  7.0
+Real Label:  6.0 	Predict Label:  6.0
+Real Label:  9.0 	Predict Label:  9.0
+0.0
+Evaluating costs of 1NN : 23.13125205039978
+**************      Training trainset with knnClassifier     **************
+[6.0, 2.0, 8.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  1.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  1.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 8.0, 6.0, 1.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 6.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[2.0, 6.0, 1.0, 8.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  6.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 6.0, 2.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  0.0 	Predict Label:  8.0
+[2.0, 8.0, 6.0, 1.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  4.0 	Predict Label:  6.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 1.0, 8.0, 6.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 6.0, 2.0, 8.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  1.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  4.0 	Predict Label:  6.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[1.0, 2.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  0.0 	Predict Label:  6.0
+[8.0, 6.0, 8.0, 1.0, 2.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 8.0, 2.0, 6.0, 1.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 6.0, 1.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  1.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 8.0, 6.0, 1.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  0.0 	Predict Label:  6.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 6.0, 1.0, 8.0, 8.0]
+Real Label:  6.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  4.0 	Predict Label:  6.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 6.0, 8.0, 8.0, 1.0]
+Real Label:  2.0 	Predict Label:  2.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[6.0, 8.0, 8.0, 1.0, 2.0]
+Real Label:  6.0 	Predict Label:  6.0
+[2.0, 1.0, 8.0, 6.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[1.0, 2.0, 8.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  1.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  1.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 6.0, 2.0]
+Real Label:  8.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[6.0, 2.0, 1.0, 8.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  2.0 	Predict Label:  6.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  4.0 	Predict Label:  6.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  7.0 	Predict Label:  2.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  0.0 	Predict Label:  6.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  0.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  1.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  0.0 	Predict Label:  6.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[1.0, 2.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  1.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 6.0, 2.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 8.0, 6.0, 1.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  2.0 	Predict Label:  2.0
+[2.0, 1.0, 6.0, 8.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 2.0, 1.0, 8.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[2.0, 8.0, 8.0, 6.0, 1.0]
+Real Label:  8.0 	Predict Label:  2.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 2.0, 6.0, 8.0, 1.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 8.0, 6.0, 1.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[2.0, 6.0, 1.0, 8.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  5.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  2.0 	Predict Label:  6.0
+[1.0, 2.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  1.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[6.0, 8.0, 1.0, 2.0, 8.0]
+Real Label:  0.0 	Predict Label:  6.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[1.0, 2.0, 8.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  0.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[2.0, 8.0, 8.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 8.0, 6.0, 2.0, 1.0]
+Real Label:  9.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  9.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  2.0
+[8.0, 8.0, 2.0, 6.0, 1.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  0.0 	Predict Label:  6.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  0.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  0.0 	Predict Label:  6.0
+[8.0, 6.0, 1.0, 2.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 1.0, 2.0, 6.0, 8.0]
+Real Label:  0.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  0.0 	Predict Label:  6.0
+[2.0, 6.0, 1.0, 8.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  0.0 	Predict Label:  6.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  6.0 	Predict Label:  1.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 6.0, 8.0, 1.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 8.0, 1.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  5.0 	Predict Label:  6.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  8.0 	Predict Label:  6.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  8.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  2.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 6.0, 2.0]
+Real Label:  0.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 6.0, 8.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  8.0
+[2.0, 8.0, 8.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[2.0, 8.0, 6.0, 1.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[1.0, 2.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[6.0, 2.0, 1.0, 8.0, 8.0]
+Real Label:  2.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 8.0, 1.0, 6.0, 2.0]
+Real Label:  5.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  1.0
+[6.0, 2.0, 1.0, 8.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  0.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  1.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[2.0, 6.0, 8.0, 8.0, 1.0]
+Real Label:  9.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 8.0, 8.0, 1.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 8.0, 6.0, 8.0, 1.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 6.0, 1.0, 2.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 8.0, 1.0]
+Real Label:  4.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  6.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 6.0, 8.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 8.0, 1.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  4.0 	Predict Label:  8.0
+[1.0, 2.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 6.0, 1.0, 2.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 6.0, 2.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 8.0, 8.0, 1.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 8.0, 2.0, 6.0, 1.0]
+Real Label:  9.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  3.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  0.0 	Predict Label:  8.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  0.0 	Predict Label:  6.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  4.0 	Predict Label:  1.0
+[2.0, 1.0, 8.0, 6.0, 8.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 6.0, 8.0, 1.0, 2.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  2.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 6.0, 8.0, 8.0, 1.0]
+Real Label:  4.0 	Predict Label:  2.0
+[1.0, 2.0, 8.0, 6.0, 8.0]
+Real Label:  4.0 	Predict Label:  1.0
+[8.0, 6.0, 2.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[6.0, 2.0, 1.0, 8.0, 8.0]
+Real Label:  2.0 	Predict Label:  6.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 8.0, 6.0, 1.0, 8.0]
+Real Label:  5.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  1.0
+[6.0, 2.0, 1.0, 8.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 8.0, 1.0, 6.0, 2.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 6.0, 2.0, 8.0, 1.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[2.0, 6.0, 1.0, 8.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 6.0, 2.0, 8.0, 1.0]
+Real Label:  4.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[6.0, 2.0, 1.0, 8.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  0.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 6.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  1.0
+[2.0, 8.0, 8.0, 1.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  0.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 6.0, 8.0, 1.0, 2.0]
+Real Label:  0.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  1.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[6.0, 2.0, 1.0, 8.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[6.0, 8.0, 1.0, 2.0, 8.0]
+Real Label:  5.0 	Predict Label:  6.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 8.0, 8.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 8.0, 6.0, 2.0, 1.0]
+Real Label:  4.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[2.0, 6.0, 8.0, 8.0, 1.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 6.0, 8.0, 8.0, 1.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 6.0, 8.0, 8.0, 1.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  0.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  2.0
+[6.0, 8.0, 1.0, 2.0, 8.0]
+Real Label:  3.0 	Predict Label:  6.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 6.0, 2.0, 8.0, 1.0]
+Real Label:  0.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  0.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  9.0 	Predict Label:  1.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  3.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 6.0, 2.0]
+Real Label:  4.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  4.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 1.0, 6.0, 8.0, 2.0]
+Real Label:  2.0 	Predict Label:  8.0
+[1.0, 2.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  1.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 8.0, 1.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  0.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  1.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 6.0, 2.0, 8.0, 1.0]
+Real Label:  0.0 	Predict Label:  8.0
+[1.0, 2.0, 8.0, 6.0, 8.0]
+Real Label:  2.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 6.0, 1.0, 2.0, 8.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 8.0, 1.0]
+Real Label:  7.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 6.0, 1.0, 2.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 8.0, 2.0, 6.0, 1.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 6.0, 8.0, 2.0, 1.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 8.0, 1.0]
+Real Label:  2.0 	Predict Label:  6.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 6.0, 8.0]
+Real Label:  8.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  0.0 	Predict Label:  6.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 6.0, 1.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 8.0, 1.0, 6.0, 2.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 8.0, 8.0, 6.0, 1.0]
+Real Label:  8.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 6.0, 8.0, 1.0, 2.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 6.0, 1.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 6.0, 8.0, 1.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  7.0 	Predict Label:  1.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[6.0, 2.0, 1.0, 8.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  0.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 8.0, 6.0, 2.0, 1.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[2.0, 8.0, 8.0, 6.0, 1.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 1.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  4.0 	Predict Label:  6.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  1.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 6.0, 2.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 6.0, 8.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  5.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  1.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  8.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[2.0, 8.0, 6.0, 1.0, 8.0]
+Real Label:  2.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 6.0, 2.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[6.0, 2.0, 1.0, 8.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  1.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  1.0
+[2.0, 8.0, 8.0, 6.0, 1.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 8.0, 6.0, 8.0, 1.0]
+Real Label:  9.0 	Predict Label:  2.0
+[2.0, 1.0, 8.0, 6.0, 8.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 2.0, 6.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 6.0, 1.0, 8.0, 8.0]
+Real Label:  6.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 6.0, 2.0, 8.0, 1.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[6.0, 1.0, 8.0, 2.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  9.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  3.0 	Predict Label:  2.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 6.0, 1.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  5.0 	Predict Label:  6.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 6.0, 8.0, 1.0]
+Real Label:  9.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  6.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  2.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 8.0, 8.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 6.0, 2.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  0.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  1.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 6.0, 8.0]
+Real Label:  6.0 	Predict Label:  2.0
+[8.0, 8.0, 6.0, 2.0, 1.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 6.0, 8.0, 2.0, 1.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 6.0, 2.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  8.0 	Predict Label:  6.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  0.0 	Predict Label:  6.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  2.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 6.0, 1.0, 8.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  0.0 	Predict Label:  6.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  7.0 	Predict Label:  1.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 6.0, 1.0, 2.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[1.0, 2.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  1.0
+[2.0, 8.0, 8.0, 6.0, 1.0]
+Real Label:  8.0 	Predict Label:  2.0
+[8.0, 2.0, 6.0, 8.0, 1.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  1.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  7.0 	Predict Label:  1.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  2.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  1.0
+[1.0, 2.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 8.0, 1.0]
+Real Label:  3.0 	Predict Label:  6.0
+[2.0, 1.0, 8.0, 6.0, 8.0]
+Real Label:  2.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  0.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 2.0, 6.0, 8.0, 1.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 6.0, 1.0, 2.0, 8.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 1.0, 6.0, 8.0, 2.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 1.0, 8.0, 6.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  4.0 	Predict Label:  6.0
+[8.0, 8.0, 1.0, 6.0, 2.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 6.0, 8.0, 1.0, 2.0]
+Real Label:  3.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[2.0, 6.0, 1.0, 8.0, 8.0]
+Real Label:  6.0 	Predict Label:  2.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 8.0, 6.0, 8.0, 1.0]
+Real Label:  2.0 	Predict Label:  2.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  2.0
+[8.0, 6.0, 2.0, 1.0, 8.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[6.0, 2.0, 1.0, 8.0, 8.0]
+Real Label:  4.0 	Predict Label:  6.0
+[8.0, 8.0, 1.0, 6.0, 2.0]
+Real Label:  0.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  5.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  7.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 6.0, 2.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  5.0 	Predict Label:  1.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[6.0, 8.0, 8.0, 2.0, 1.0]
+Real Label:  3.0 	Predict Label:  6.0
+[8.0, 1.0, 8.0, 6.0, 2.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  2.0
+[8.0, 6.0, 8.0, 2.0, 1.0]
+Real Label:  6.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 8.0, 6.0, 1.0, 8.0]
+Real Label:  5.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 6.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  2.0
+[8.0, 8.0, 1.0, 6.0, 2.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[6.0, 2.0, 8.0, 8.0, 1.0]
+Real Label:  3.0 	Predict Label:  6.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 6.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  8.0
+[8.0, 8.0, 2.0, 6.0, 1.0]
+Real Label:  7.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 8.0, 6.0, 1.0, 2.0]
+Real Label:  4.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[1.0, 8.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  1.0
+[8.0, 6.0, 1.0, 2.0, 8.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[2.0, 8.0, 8.0, 6.0, 1.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  8.0
+[8.0, 1.0, 6.0, 8.0, 2.0]
+Real Label:  2.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 6.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 6.0, 1.0, 8.0, 8.0]
+Real Label:  6.0 	Predict Label:  2.0
+[8.0, 6.0, 8.0, 2.0, 1.0]
+Real Label:  0.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[1.0, 8.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 6.0, 1.0, 8.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 8.0, 2.0, 1.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  2.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  4.0 	Predict Label:  8.0
+[2.0, 8.0, 6.0, 1.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  2.0
+[1.0, 2.0, 8.0, 8.0, 6.0]
+Real Label:  2.0 	Predict Label:  1.0
+[2.0, 1.0, 8.0, 8.0, 6.0]
+Real Label:  8.0 	Predict Label:  2.0
+[1.0, 2.0, 8.0, 8.0, 6.0]
+Real Label:  7.0 	Predict Label:  1.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  2.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  8.0
+[8.0, 8.0, 1.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 2.0, 1.0, 6.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 6.0, 8.0]
+Real Label:  5.0 	Predict Label:  8.0
+[2.0, 8.0, 1.0, 8.0, 6.0]
+Real Label:  3.0 	Predict Label:  2.0
+[8.0, 1.0, 8.0, 2.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[2.0, 6.0, 1.0, 8.0, 8.0]
+Real Label:  9.0 	Predict Label:  2.0
+[6.0, 2.0, 8.0, 1.0, 8.0]
+Real Label:  6.0 	Predict Label:  6.0
+[2.0, 6.0, 1.0, 8.0, 8.0]
+Real Label:  4.0 	Predict Label:  2.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  0.0 	Predict Label:  8.0
+[8.0, 1.0, 2.0, 8.0, 6.0]
+Real Label:  1.0 	Predict Label:  8.0
+[8.0, 2.0, 8.0, 1.0, 6.0]
+Real Label:  7.0 	Predict Label:  8.0
+[6.0, 8.0, 2.0, 8.0, 1.0]
+Real Label:  6.0 	Predict Label:  6.0
+[8.0, 2.0, 1.0, 8.0, 6.0]
+Real Label:  9.0 	Predict Label:  8.0
+0.7932067932067932
+Evaluating KNN costs :  23.11682891845703
+**************Let's get predict test dataset**************

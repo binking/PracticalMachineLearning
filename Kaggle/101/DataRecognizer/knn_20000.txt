@@ -1,0 +1,11 @@
+Loading data finished
+Spliting data finished
+(1, 784)
+(1, 784)
+Processing data costs : 46.04301714897156
+**************Let's get started recognize number**************
+**************      Training trainset with knnClassifier     **************
+Error rate for KNN is  0.05811773528308961
+Evaluating KNN costs :  1918.5744891166687
+**************      Training trainset with knnClassifier     **************
+Validation error rate for KNN is  0.071
